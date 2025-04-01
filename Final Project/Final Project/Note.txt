@@ -1,0 +1,9 @@
+
+[NGHIA's note]
+1/ Trong Menu.cpp , nếu như Course, Class,... chưa
+   được tạo thì nếu chọn View sẽ xảy ra cái j.
+2/ Những cái Menu như tạo, chọn, edit thông tin thì nên có thêm 1 nút Exit.
+3/ Ngoài 2 cái menu lúc đầu của Student và GV thì những menu khác có cần thêm viền
+   và cho nó hiện ở giữa màn hình ko?
+4/ Chỉnh sửa với Thêm mấy cái system("cls") & system("pause") vào những chỗ hợp lí.
+5/ Kiu Trung Mac chạy dùm Teacher Menu số [2], [3], [6], [11], [12], [13] bên Mune.cpp
